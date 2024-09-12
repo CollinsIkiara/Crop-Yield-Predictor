@@ -38,7 +38,7 @@ This project leverages machine learning techniques to predict crop yields, with 
    ```
 
 ## Data
-- **Dataset**: Agricultural Crop Production dataset (source: [Kaggle](https://www.kaggle.com/datasets/varshitanalluri/crop-price-prediction-dataset))
+- **Dataset**: Crop Price Prediction Dataset (source: [Kaggle](https://www.kaggle.com/datasets/varshitanalluri/crop-price-prediction-dataset))
 - **Features**: Soil composition (Nitrogen, Phosphorus, and Potassium levels), environmental factors (temperature, humidity, pH, rainfall), and other relevant agricultural parameters
 - **Target**: Yield 
 - **Preprocessing**: Handled missing values, normalized numerical features, and encoded categorical variables where applicable
